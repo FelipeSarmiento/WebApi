@@ -137,3 +137,4 @@ C:\Users\felip\Downloads\001_WEBAPI_ProyectoWebApi\ProyectoWebApi\WebApi\bin\es\
 C:\Users\felip\Downloads\001_WEBAPI_ProyectoWebApi\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
 C:\Users\felip\Downloads\001_WEBAPI_ProyectoWebApi\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
 C:\Users\felip\Downloads\001_WEBAPI_ProyectoWebApi\ProyectoWebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\felip\Downloads\001_WEBAPI_ProyectoWebApi\ProyectoWebApi\WebApi\bin\WebApi.dll.config
